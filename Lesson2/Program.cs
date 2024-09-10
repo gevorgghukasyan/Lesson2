@@ -141,3 +141,7 @@
 //{
 //	Console.WriteLine(x / y);
 //}
+
+using System;
+
+Console.WriteLine("Hello");
